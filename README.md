@@ -30,3 +30,5 @@ This is one of the HW assignment at USC, there are 2 quesitons.
 
 ## Machine Learning for Data Science
 ![data_science](ds.jpg)
+## Active Learning vs Passive Learning
+![data_science](Picture1.jpg)
